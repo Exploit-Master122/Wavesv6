@@ -5,6 +5,20 @@ A sleek and minimalist Web Proxy.
 
 [![Join our Discord](https://invidget.switchblade.xyz/dJvdkPRheV)](https://discord.gg/dJvdkPRheV)
 
+
+***BEFORE YOU USE THE PROXY,YOU MUST READ THIS:***
+> [!IMPORTANT]
+> - Considering giving this repository a star if you do fork and use Waves. <3
+> - Join our discord,please!!! =-D
+> - We are not responsible if you get in trouble for this.***WE DO NOT CARE OR NEED TO CARE ACCORDING TO THIS POLICY** 
+> - Waves provides a service.***WE DID NOT CREATE THE DEMAND***
+> - You created the demand by using it,and web filters created the ***need*** by blocking websites.
+
+
+
+
+
+
 ## Supported Sites:
 
 - [Google](https://google.com)
@@ -100,9 +114,4 @@ npm start
 
 This project is licensed under the [GPL-3.0 License](LICENSE).
 
-> [!IMPORTANT]
-> Considering giving this repository a star if you do fork and use Waves. <3
-> Join our discord,please!!! =-D
-> We are not responsible if you get in trouble for this.***WE DO NOT CARE OR NEED TO CARE ACCORDING TO THIS POLICY***
-> Waves provides a service.***We did not create the demand!!***.You and school web filters created the demand.
 
