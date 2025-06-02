@@ -22,11 +22,11 @@ A sleek and minimalist Web Proxy.
 - Sleek & Clean UI
 - Search Bar
 - Themes
-- And a lot more features coming soon...
+- And a lot more features coming soon!!!!
 
 ## Usage:
 
-You **cannot** deploy Waves on any static hosting services.
+You **cannot** deploy Waves on any static hosting services like github pages or vercel.
 
 ## BYOD (Bring Your Own Domain):
 
@@ -69,15 +69,15 @@ npm start
 
 Once everything is set up, head over to http://localhost:3000 to experience Waves running smoothly on your local machine!
 
-## Run Waves on Github Codespaces:
+##### Run Waves on Github Codespaces: (BEST VERSION!!!)
 
-1. Create a GitHub account if you don’t have one.
+1. Create a GitHub account if you don’t have one.If not,join the discord for links.Try the original one if it works.
 
 2. Log in, click the green **"Code"** button, and select **"Codespaces"** on the right.
 
 3. Click the **"+"** to create a new Codespace.
 
-4. After everything loads, run these commands:
+4. After everything loads, run these commands in the Linux terminal on the VS codespace.
 
 ```bash
 npm i
@@ -86,6 +86,10 @@ npm start
 ```
 
 5. When done, click **"Public"** on the pop-up and access your given URL.
+
+6. Wait for the deployed github dev url to load.
+
+7. Browse freely!!
 
 ## Credits:
 
@@ -98,4 +102,7 @@ This project is licensed under the [GPL-3.0 License](LICENSE).
 
 > [!IMPORTANT]
 > Considering giving this repository a star if you do fork and use Waves. <3
+> Join our discord,please!!! =-D
+> We are not responsible if you get in trouble for this.***WE DO NOT CARE OR NEED TO CARE ACCORDING TO THIS POLICY***
+> Waves provides a service.***We did not create the demand!!***.You and school web filters created the demand.
 
