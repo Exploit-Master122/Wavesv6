@@ -83,7 +83,7 @@ npm start
 
 Once everything is set up, head over to http://localhost:3000 to experience Waves running smoothly on your local machine!
 
-##### Run Waves on Github Codespaces: (BEST VERSION!!!)
+# Run Waves on Github Codespaces: (BEST VERSION!!!)
 
 1. Create a GitHub account if you don’t have one.If not,join the discord for links.Try the original one if it works.
 
