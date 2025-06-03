@@ -65,6 +65,16 @@ npm start
 
 7. Browse freely!!
 
+8. When you want to use it again,you still have to load it through the terminal,otherwise,it won't work.
+
+9. To make more links,in case the first github dev URL gets blocked,spam step 4.
+
+10. Go to the "Ports" panel and right click one of the links.
+
+11. Select Open in browser.
+
+12. You did it! =-)
+
 ## Credits:
 
 - [NobodycaresJR](https://github.com/Nobodycaresjr-lo) - For the Waves icon
