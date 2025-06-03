@@ -1,5 +1,5 @@
 # Waves.
-A sleek and minimalist Web Proxy.
+A sleek and minimalist Web Proxy for school...
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1r475.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
@@ -42,46 +42,6 @@ A sleek and minimalist Web Proxy.
 
 You **cannot** deploy Waves on any static hosting services like github pages or vercel.
 
-## BYOD (Bring Your Own Domain):
-
-1. Log in to your domain or subdomain provider’s control panel.
-2. Select the domain or subdomain you'd like to configure.
-3. Add a new A record with the following IP address as the destination:
-
-```bash
-172.96.142.25
-```
-
-4. Save your changes and allow time for DNS propagation, which may take a long time.
-
-## Self-Hosting:
-
-1. Login your server.
-2. Open the terminal.
-3. Run the commands bellow:
-   
-```bash
-sudo git clone https://github.com/xojw/waves
-
-cd waves
-
-sh setup.sh
-```
-
-## Run Waves Locally:
-
-1. Go into your local machine terminal
-2. Run the commands bellow
-
-```bash
-git clone https://github.com/xojw/waves
-
-npm i
-
-npm start
-```
-
-Once everything is set up, head over to http://localhost:3000 to experience Waves running smoothly on your local machine!
 
 # Run Waves on Github Codespaces: (BEST VERSION!!!)
 
