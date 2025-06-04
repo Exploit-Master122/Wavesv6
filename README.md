@@ -80,6 +80,14 @@ npm start
 - [NobodycaresJR](https://github.com/Nobodycaresjr-lo) - For the Waves icon
 - [Selenite](https://gitlab.com/skysthelimit.dev/selenite) - All the games assets
 
+
+
+
+For Terbium Browser go to 
+```
+https://github.com/Exploit-Master122/TerbiumOS-v2
+```
+
 ## License
 
 This project is licensed under the [GPL-3.0 License](LICENSE).
