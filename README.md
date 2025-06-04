@@ -93,6 +93,7 @@ for games assets (Link by me)
 ```
 https://peteandviaresorizzy.global.ssl.fastly.net/
 ```
+- [WavesLink](https://posiedonissocool.global.ssl.fastly.net/)
 
 
 ## License
