@@ -88,6 +88,13 @@ For Terbium Browser go to
 https://github.com/Exploit-Master122/TerbiumOS-v2
 ```
 
+Cretdits to PeteZah Games
+for games assets (Link by me)
+```
+https://peteandviaresorizzy.global.ssl.fastly.net/
+```
+
+
 ## License
 
 This project is licensed under the [GPL-3.0 License](LICENSE).
