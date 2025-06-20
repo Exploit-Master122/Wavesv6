@@ -1,0 +1,2884 @@
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "width": "100%",
+    "height": "600px",
+    "style": {
+      "border": "none",
+      "overflow": "hidden"
+    },
+    "attributes": {
+      "allowfullscreen": true,
+      "loading": "lazy"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "width": "100%",
+    "height": "600px",
+    "style": {
+      "border": "none",
+      "overflow": "hidden"
+    },
+    "attributes": {
+      "allowfullscreen": true,
+      "loading": "lazy"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "800px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded successfully!'); }",
+      "onerror": "function() { console.error('Error loading iframe.'); }"
+    },
+    "content": {
+      "title": "Use Waves Site",
+      "description": "An interactive platform for exploring waves.",
+      "keywords": ["waves", "interactive", "exploration", "usewaves"],
+      "author": "Use Waves Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "iframeBorder": {
+        "border": "2px solid #007bff",
+        "border-radius": "10px"
+      }
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-12345678-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "800px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded successfully!'); }",
+      "onerror": "function() { console.error('Error loading iframe.'); }"
+    },
+    "content": {
+      "title": "Use Waves Site",
+      "description": "An interactive platform for exploring waves.",
+      "keywords": ["waves", "interactive", "exploration", "usewaves"],
+      "author": "Use Waves Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "iframeBorder": {
+        "border": "2px solid #007bff",
+        "border-radius": "10px"
+      }
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-12345678-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
+{
+  "iframe": {
+    "src": "https://usewaves.site",
+    "attributes": {
+      "width": "100%",
+      "height": "600px",
+      "style": {
+        "border": "none",
+        "overflow": "hidden",
+        "border-radius": "10px",
+        "box-shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+      },
+      "allowfullscreen": true,
+      "loading": "lazy",
+      "sandbox": "allow-same-origin allow-scripts"
+    },
+    "content": {
+      "title": "Hello World Iframe",
+      "message": "Hello, World!",
+      "description": "This iframe displays a simple greeting.",
+      "keywords": ["hello", "world", "greeting", "iframe"],
+      "author": "Greeting Team"
+    },
+    "styles": {
+      "container": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "margin": "20px",
+        "padding": "10px",
+        "background-color": "#f9f9f9",
+        "border": "1px solid #ddd",
+        "border-radius": "10px"
+      },
+      "messageStyle": {
+        "font-size": "24px",
+        "color": "#333",
+        "font-weight": "bold",
+        "text-align": "center"
+      }
+    },
+    "events": {
+      "onload": "function() { console.log('Iframe loaded with Hello World!'); }",
+      "onerror": "function() { console.error('Error loading Hello World iframe.'); }"
+    },
+    "analytics": {
+      "trackLoad": true,
+      "trackErrors": true,
+      "trackingID": "UA-87654321-1"
+    }
+  }
+}
